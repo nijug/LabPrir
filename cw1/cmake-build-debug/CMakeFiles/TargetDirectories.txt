@@ -1,0 +1,3 @@
+/home/nijug/IdeaProjects/LabPrir/cw1/cmake-build-debug/CMakeFiles/cw1.dir
+/home/nijug/IdeaProjects/LabPrir/cw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nijug/IdeaProjects/LabPrir/cw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
